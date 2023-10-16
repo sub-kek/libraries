@@ -1,0 +1,26 @@
+{
+  "hash": "b93986af96d6badf9392c0300500b9574221b67a",
+  "libs": {
+    "mp3spi-1.9.5.4.jar": {
+      "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
+    },
+    "jflac-codec-1.5.2.jar": {
+      "url": "https://repo1.maven.org/maven2/org/jflac/jflac-codec/1.5.2/jflac-codec-1.5.2.jar"
+    },
+    "lavaplayer-1.4.2.jar": {
+      "url": "https://maven.scijava.org/content/repositories/public/com/github/walkyst/lavaplayer-fork/lavaplayer/1.4.2/lavaplayer-1.4.2.jar"
+    },
+    "jackson-core-2.15.3.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.3/jackson-core-2.15.3.jar"
+    },
+    "jackson-databind-2.15.3.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.3/jackson-databind-2.15.3.jar"
+    },
+    "slf4j-api-2.0.9.jar": {
+      "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+    },
+    "adventure-api-4.14.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar"
+    }
+  }
+}
