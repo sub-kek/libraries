@@ -1,5 +1,5 @@
 {
-  "hash": "b93986af96d6badf9392c0300500b9574221b67a",
+  "hash": "e05ec95aafd32844694ec416129772af0ceae051",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -18,9 +18,6 @@
     },
     "slf4j-api-2.0.9.jar": {
       "url": "https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
-    },
-    "adventure-api-4.14.0.jar": {
-      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar"
     }
   }
 }
