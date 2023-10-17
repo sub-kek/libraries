@@ -1,5 +1,5 @@
 {
-  "hash": "0c694e7b7a22d5dc23297be6ea7b5345d00b8190",
+  "hash": "403fe4c73929bbe961617878c01c743f70dfed94",
   "libs": {
     "mp3spi-1.9.5-1.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar"
@@ -33,6 +33,12 @@
     },
     "jackson-annotations-2.15.3.jar": {
       "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.3/jackson-annotations-2.15.3.jar"
+    },
+    "jlayer-1.0.1.4.jar": {
+      "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/jlayer/1.0.1.4/jlayer-1.0.1.4.jar"
+    },
+    "tritonus-share-0.3.7.4.jar": {
+      "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/tritonus-share/0.3.7.4/tritonus-share-0.3.7.4.jar"
     }
   }
 }
