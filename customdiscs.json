@@ -12,9 +12,6 @@
     },
     "jackson-databind-2.15.3.jar": {
       "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.3/jackson-databind-2.15.3.jar"
-    },
-    "adventure-api-4.14.0.jar": {
-      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar"
     }
   }
 }
