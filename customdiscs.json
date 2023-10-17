@@ -1,11 +1,11 @@
 {
   "hash": "56386fb5532a150588185cc314b61b3d8fd33e47",
   "libs": {
+    "mp3spi-1.9.5-1.jar": {
+      "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar"
+    },
     "jflac-codec-1.5.2.jar": {
       "url": "https://repo1.maven.org/maven2/org/jflac/jflac-codec/1.5.2/jflac-codec-1.5.2.jar"
-    },
-    "lavaplayer-1.3.78.jar": {
-      "url": "https://m2.dv8tion.net/releases/com/sedmelluq/lavaplayer/1.3.78/lavaplayer-1.3.78.jar"
     },
     "jackson-core-2.15.3.jar": {
       "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.3/jackson-core-2.15.3.jar"
