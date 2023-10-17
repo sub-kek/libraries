@@ -1,5 +1,5 @@
 {
-  "hash": "ed4c517195d2cc4c5d5c128b4ed75a5b11673f5d",
+  "hash": "50524169bcffdaca0a77de9f27def07bbe37a36f",
   "libs": {
     "mp3spi-1.9.5-1.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar"
@@ -21,6 +21,18 @@
     },
     "adventure-api-4.14.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar"
+    },
+    "adventure-text-serializer-gson-4.14.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson/4.14.0/adventure-text-serializer-gson-4.14.0.jar"
+    },
+    "adventure-text-serializer-legacy-4.14.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-legacy/4.14.0/adventure-text-serializer-legacy-4.14.0.jar"
+    },
+    "adventure-platform-bukkit-4.3.1.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-platform-bukkit/4.3.1/adventure-platform-bukkit-4.3.1.jar"
+    },
+    "adventure-text-minimessage-4.14.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.14.0/adventure-text-minimessage-4.14.0.jar"
     }
   }
 }
