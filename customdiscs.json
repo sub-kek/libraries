@@ -1,9 +1,6 @@
 {
-  "hash": "73752173cfb8ecc092cace917170bdb756d1812e",
+  "hash": "56386fb5532a150588185cc314b61b3d8fd33e47",
   "libs": {
-    "mp3spi-1.9.5-1.jar": {
-      "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar"
-    },
     "jflac-codec-1.5.2.jar": {
       "url": "https://repo1.maven.org/maven2/org/jflac/jflac-codec/1.5.2/jflac-codec-1.5.2.jar"
     },
