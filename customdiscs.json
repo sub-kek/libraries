@@ -1,5 +1,5 @@
 {
-  "hash": "403fe4c73929bbe961617878c01c743f70dfed94",
+  "hash": "66a67340827924108c40ab52115641c6bf443b01",
   "libs": {
     "mp3spi-1.9.5-1.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar"
@@ -39,6 +39,9 @@
     },
     "tritonus-share-0.3.7.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/tritonus-share/0.3.7.4/tritonus-share-0.3.7.4.jar"
+    },
+    "httpclient-4.5.14.jar": {
+      "url": "https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.5.14/httpclient-4.5.14.jar"
     }
   }
 }
