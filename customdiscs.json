@@ -1,5 +1,5 @@
 {
-  "hash": "df365e2a29b2bbbf6cefb26dfad07ad81eb6b533",
+  "hash": "0c694e7b7a22d5dc23297be6ea7b5345d00b8190",
   "libs": {
     "mp3spi-1.9.5-1.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5-1/mp3spi-1.9.5-1.jar"
@@ -30,6 +30,9 @@
     },
     "lavaplayer-natives-1.3.13.jar": {
       "url": "https://m2.dv8tion.net/releases/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.jar"
+    },
+    "jackson-annotations-2.15.3.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.15.3/jackson-annotations-2.15.3.jar"
     }
   }
 }
