@@ -1,5 +1,5 @@
 {
-  "hash": "29376557c9b00ecd5a8a257f1ab8c47397de99ec",
+  "hash": "9740ed3c545cd6db7ac4b8edafce5f5854bdec21",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -51,6 +51,9 @@
     },
     "commons-codec-1.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar"
+    },
+    "lavaplayer-ext-youtube-rotator-1.4.0.jar": {
+      "url": "http://maven.imagej.net/content/repositories/public/com/github/walkyst/lavaplayer-fork/lavaplayer-ext-youtube-rotator/1.4.0/lavaplayer-ext-youtube-rotator-1.4.0.jar"
     }
   }
 }
