@@ -1,5 +1,5 @@
 {
-  "hash": "9740ed3c545cd6db7ac4b8edafce5f5854bdec21",
+  "hash": "06947a7c69bf1f11d46950485a1230ba43b6151b",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -13,8 +13,8 @@
     "jackson-databind-2.15.3.jar": {
       "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.3/jackson-databind-2.15.3.jar"
     },
-    "lavaplayer-1.4.2.jar": {
-      "url": "https://maven.scijava.org/content/repositories/public/com/github/walkyst/lavaplayer-fork/lavaplayer/1.4.2/lavaplayer-1.4.2.jar"
+    "lavaplayer-2.0.2.jar": {
+      "url": "https://repo1.maven.org/maven2/dev/arbjerg/lavaplayer/2.0.2/lavaplayer-2.0.2.jar"
     },
     "commons-io-2.14.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar"
@@ -25,8 +25,8 @@
     "adventure-text-serializer-plain-4.14.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.14.0/adventure-text-serializer-plain-4.14.0.jar"
     },
-    "lava-common-1.4.2.jar": {
-      "url": "https://maven.scijava.org/content/repositories/public/com/github/walkyst/lavaplayer-fork/lava-common/1.4.2/lava-common-1.4.2.jar"
+    "lava-common-2.0.2.jar": {
+      "url": "https://repo1.maven.org/maven2/dev/arbjerg/lava-common/2.0.2/lava-common-2.0.2.jar"
     },
     "lavaplayer-natives-1.3.13.jar": {
       "url": "https://m2.dv8tion.net/releases/com/sedmelluq/lavaplayer-natives/1.3.13/lavaplayer-natives-1.3.13.jar"
@@ -51,9 +51,6 @@
     },
     "commons-codec-1.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar"
-    },
-    "lavaplayer-ext-youtube-rotator-1.4.0.jar": {
-      "url": "http://maven.imagej.net/content/repositories/public/com/github/walkyst/lavaplayer-fork/lavaplayer-ext-youtube-rotator/1.4.0/lavaplayer-ext-youtube-rotator-1.4.0.jar"
     }
   }
 }
