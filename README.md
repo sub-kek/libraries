@@ -6,4 +6,9 @@
         <th>2023.10.17 - 22:00</th>
         <th>File: customdiscs.json</th>
     </tr>
+    <tr>
+        <th>AntiVPN</th>
+        <th>2024.01.14 - 13:00</th>
+        <th>File: antivpn.json</th>
+    </tr>
 </table>
