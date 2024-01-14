@@ -1,5 +1,5 @@
 {
-  "hash": "f8a701b35cf41c740ef848574946d2778b02f553",
+  "hash": "d440315e3b45aebcc3cf91a659c477f0cf19d873",
   "libs": {
     "jackson-core-2.16.1.jar": {
       "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.16.1/jackson-core-2.16.1.jar"
@@ -18,6 +18,9 @@
     },
     "commons-codec-1.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar"
+    },
+    "commons-logging-1.3.0.jar": {
+      "url": "https://repo1.maven.org/maven2/commons-logging/commons-logging/1.3.0/commons-logging-1.3.0.jar"
     }
   }
 }
