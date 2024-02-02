@@ -1,0 +1,17 @@
+{
+  "hash": "78f44617a04c8d14ba8f52cc18527c821d5fb854",
+  "libs": {
+    "JDA-5.0.0-beta.20.jar": {
+      "url": "https://repo1.maven.org/maven2/net/dv8tion/JDA/5.0.0-beta.20/JDA-5.0.0-beta.20.jar"
+    },
+    "jackson-core-2.16.1.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.16.1/jackson-core-2.16.1.jar"
+    },
+    "jackson-databind-2.16.1.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.16.1/jackson-databind-2.16.1.jar"
+    },
+    "trove4j-3.0.3.jar": {
+      "url": "https://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+    }
+  }
+}
