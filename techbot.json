@@ -1,5 +1,5 @@
 {
-  "hash": "78f44617a04c8d14ba8f52cc18527c821d5fb854",
+  "hash": "d1e951e4e9f4981e290588b45a173957ddd6914b",
   "libs": {
     "JDA-5.0.0-beta.20.jar": {
       "url": "https://repo1.maven.org/maven2/net/dv8tion/JDA/5.0.0-beta.20/JDA-5.0.0-beta.20.jar"
@@ -12,6 +12,18 @@
     },
     "trove4j-3.0.3.jar": {
       "url": "https://repo1.maven.org/maven2/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar"
+    },
+    "okhttp-5.0.0-alpha.12.jar": {
+      "url": "https://repo1.maven.org/maven2/com/squareup/okhttp3/okhttp/5.0.0-alpha.12/okhttp-5.0.0-alpha.12.jar"
+    },
+    "commons-collections4-4.4.jar": {
+      "url": "https://repo1.maven.org/maven2/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar"
+    },
+    "opus-java-1.1.1.jar": {
+      "url": "https://repo1.maven.org/maven2/club/minnced/opus-java/1.1.1/opus-java-1.1.1.jar"
+    },
+    "nv-websocket-client-2.14.jar": {
+      "url": "https://repo1.maven.org/maven2/com/neovisionaries/nv-websocket-client/2.14/nv-websocket-client-2.14.jar"
     }
   }
 }
