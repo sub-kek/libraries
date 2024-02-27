@@ -11,4 +11,9 @@
         <th>2024.01.14 - 13:00</th>
         <th>File: antivpn.json</th>
     </tr>
+    <tr>
+        <th>IPLogger</th>
+        <th>2024.02.25 - 12:00</th>
+        <th>File: iplogger.json</th>
+    </tr>
 </table>
