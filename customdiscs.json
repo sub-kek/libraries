@@ -1,5 +1,5 @@
 {
-  "hash": "fe732fb2dbe8819497788b9413975706931b11e9",
+  "hash": "9e5f6511bc12ccc633beb5b27479f1c7240c470d",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -19,10 +19,10 @@
     "commons-io-2.14.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar"
     },
-    "adventure-api-4.14.0.jar": {
-      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-api/4.14.0/adventure-api-4.14.0.jar"
+    "adventure-api-4.16.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-api/4.16.0/adventure-api-4.16.0.jar"
     },
-    "adventure-text-serializer-plain-4.14.0.jar": {
+    "adventure-text-serializer-plain-4.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.14.0/adventure-text-serializer-plain-4.14.0.jar"
     },
     "lava-common-1.1.2.jar": {
@@ -54,6 +54,12 @@
     },
     "adventure-text-minimessage-4.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar"
+    },
+    "adventure-key-4.16.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-key/4.16.0/adventure-key-4.16.0.jar"
+    },
+    "examination-string-1.3.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/examination-string/1.3.0/examination-string-1.3.0.jar"
     }
   }
 }
