@@ -1,5 +1,5 @@
 {
-  "hash": "363a204af168831b97ff4a467e2a9e742f1d7142",
+  "hash": "fe732fb2dbe8819497788b9413975706931b11e9",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -51,6 +51,9 @@
     },
     "commons-codec-1.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-codec/commons-codec/1.16.0/commons-codec-1.16.0.jar"
+    },
+    "adventure-text-minimessage-4.16.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar"
     }
   }
 }
