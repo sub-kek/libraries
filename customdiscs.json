@@ -67,9 +67,9 @@
     "adventure-platform-api-4.3.2.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar"
     },
-    "adventure-text-logger-slf4j-4.16.0.jar": {
-      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-logger-slf4j/4.16.0/adventure-text-logger-slf4j-4.16.0.jar"
-    },
+    // "adventure-text-logger-slf4j-4.16.0.jar": {
+    //   "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-logger-slf4j/4.16.0/adventure-text-logger-slf4j-4.16.0.jar"
+    // },
     "adventure-text-minimessage-4.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar"
     },
