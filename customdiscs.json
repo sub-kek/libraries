@@ -1,5 +1,5 @@
 {
-  "hash": "b0c260cf4c7364af6a49ba01943407089a5430f9",
+  "hash": "f7ddfb252a83c058a495d7fc187c6df73825f294",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -67,9 +67,6 @@
     "adventure-platform-api-4.3.2.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar"
     },
-    // "adventure-text-logger-slf4j-4.16.0.jar": {
-    //   "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-logger-slf4j/4.16.0/adventure-text-logger-slf4j-4.16.0.jar"
-    // },
     "adventure-text-minimessage-4.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar"
     },
