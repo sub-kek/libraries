@@ -1,5 +1,5 @@
 {
-  "hash": "f7ddfb252a83c058a495d7fc187c6df73825f294",
+  "hash": "d12b4defa922d3291e0a97e1873d6305ea8769f6",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -7,14 +7,14 @@
     "jflac-codec-1.5.2.jar": {
       "url": "https://repo1.maven.org/maven2/org/jflac/jflac-codec/1.5.2/jflac-codec-1.5.2.jar"
     },
-    "jackson-core-2.15.3.jar": {
-      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.15.3/jackson-core-2.15.3.jar"
-    },
-    "jackson-databind-2.15.3.jar": {
-      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.15.3/jackson-databind-2.15.3.jar"
-    },
     "lavaplayer-1.3.78.jar": {
       "url": "https://m2.dv8tion.net/releases/com/sedmelluq/lavaplayer/1.3.78/lavaplayer-1.3.78.jar"
+    },
+    "jackson-databind-2.17.0.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.17.0/jackson-databind-2.17.0.jar"
+    },
+    "jackson-core-2.17.0.jar": {
+      "url": "https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.17.0/jackson-core-2.17.0.jar"
     },
     "commons-io-2.14.0.jar": {
       "url": "https://repo1.maven.org/maven2/commons-io/commons-io/2.14.0/commons-io-2.14.0.jar"
@@ -67,6 +67,9 @@
     "adventure-platform-api-4.3.2.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-platform-api/4.3.2/adventure-platform-api-4.3.2.jar"
     },
+    "adventure-text-logger-slf4j-4.16.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-logger-slf4j/4.16.0/adventure-text-logger-slf4j-4.16.0.jar"
+    },
     "adventure-text-minimessage-4.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-minimessage/4.16.0/adventure-text-minimessage-4.16.0.jar"
     },
@@ -84,6 +87,21 @@
     },
     "adventure-text-serializer-plain-4.16.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-plain/4.16.0/adventure-text-serializer-plain-4.16.0.jar"
+    },
+    "adventure-text-serializer-gson-legacy-impl-4.16.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-gson-legacy-impl/4.16.0/adventure-text-serializer-gson-legacy-impl-4.16.0.jar"
+    },
+    "adventure-text-serializer-json-legacy-impl-4.16.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-text-serializer-json-legacy-impl/4.16.0/adventure-text-serializer-json-legacy-impl-4.16.0.jar"
+    },
+    "adventure-platform-facet-4.3.2.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-platform-facet/4.3.2/adventure-platform-facet-4.3.2.jar"
+    },
+    "adventure-platform-viaversion-4.3.2.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/adventure-platform-viaversion/4.3.2/adventure-platform-viaversion-4.3.2.jar"
+    },
+    "option-1.0.0.jar": {
+      "url": "https://repo1.maven.org/maven2/net/kyori/option/1.0.0/option-1.0.0.jar"
     }
   }
 }
