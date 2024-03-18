@@ -1,5 +1,5 @@
 {
-  "hash": "d12b4defa922d3291e0a97e1873d6305ea8769f6",
+  "hash": "6eca2851978ef0aa00a01df9f9b2ddb2ff34d32c",
   "libs": {
     "mp3spi-1.9.5.4.jar": {
       "url": "https://repo1.maven.org/maven2/com/googlecode/soundlibs/mp3spi/1.9.5.4/mp3spi-1.9.5.4.jar"
@@ -102,6 +102,15 @@
     },
     "option-1.0.0.jar": {
       "url": "https://repo1.maven.org/maven2/net/kyori/option/1.0.0/option-1.0.0.jar"
+    },
+    "Simple-Yaml-1.8.4.jar": {
+      "url": "https://maven.scijava.org/content/repositories/public/me/carleslc/Simple-YAML/Simple-Yaml/1.8.4/Simple-Yaml-1.8.4.jar"
+    },
+    "Simple-Configuration-1.8.4.jar": {
+      "url": "https://maven.scijava.org/content/repositories/public/me/carleslc/Simple-YAML/Simple-Configuration/1.8.4/Simple-Configuration-1.8.4.jar"
+    },
+    "snakeyaml-2.2.jar": {
+      "url": "https://repo1.maven.org/maven2/org/yaml/snakeyaml/2.2/snakeyaml-2.2.jar"
     }
   }
 }
